@@ -5,7 +5,7 @@ namespace JangoMailAPIExample
 {
     /// <summary>
     /// JangoMail API Example Code
-    /// To use this example, add a Service Reference to http://api.jangomail.com/api.asmx?WSDL as JangoMailService.
+    /// To use this example, add a Service Reference to https://api.jangomail.com/api.asmx?WSDL as JangoMailService.
     /// </summary>
     class Program
     {
