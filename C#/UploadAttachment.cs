@@ -60,7 +60,7 @@ namespace JangoMailAPIExample
                     password,
                     stream.GetBuffer(),
                     targetFilename,
-                    true);
+                    overwriteExistingFile);
 
             return response;
         }
